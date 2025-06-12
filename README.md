@@ -43,17 +43,17 @@ This project showcases hands-on experience designing and deploying Azure virtual
 ## Screenshots
 
 Screenshots of each task
-- Virtual network & subnet creation
+### Virtual network & subnet creation
   ![Subnets](https://github.com/user-attachments/assets/1d088171-dfe9-472b-b47e-1ba9ed41a4b4)
 
-- Template edits & deployments
+### Template edits & deployments
 ![TemplateCreationOfManufacturingVnet](https://github.com/user-attachments/assets/99686eb3-1185-461f-af9e-17e11a911aca)
 
-- ASG & NSG configuration
+### ASG & NSG configuration
 ![DenyRule](https://github.com/user-attachments/assets/7f9e2350-1d99-4e73-b1e0-ded76cd838e9)
 ![AllowRule](https://github.com/user-attachments/assets/82262423-84ff-413e-99e8-0ff868fae859)
 
-- DNS zone setup & testing
+### DNS zone setup & testing
 ![PrivateDNSRecordSet](https://github.com/user-attachments/assets/3fc7078a-14fb-427c-9144-e641b4e6a6fa)
 ![NSLookUp](https://github.com/user-attachments/assets/2f88001d-acea-40bc-9360-03a9ee861ba4)
 

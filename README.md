@@ -42,7 +42,7 @@ This project showcases hands-on experience designing and deploying Azure virtual
 
 ## Screenshots
 
-Screenshots of each task (with underlined `odl_user` account) are saved in the `screenshots/` folder and include:
+Screenshots of each task
 - Virtual network & subnet creation
 - Template edits & deployments
 - ASG & NSG configuration
